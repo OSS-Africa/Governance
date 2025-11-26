@@ -2,21 +2,15 @@
 
 *An Open Community Initiative Aligned with Linux Foundation & OpenSSF Principles*
 
-
-
 ## **Overview**
 
 **Open Source & Security Africa (OSSAfrica)** is a community-driven initiative dedicated to strengthening open source collaboration, security awareness, and contributor growth across the African continent. Our governance model draws heavily from practices established by the **Open Source Security Foundation (OpenSSF)** and the **Linux Foundation (LF)**—prioritizing transparency, fairness, openness, and community participation.
 
 This repository provides the authoritative source for OSSAfrica’s organizational structure, working groups, governance processes, and documentation that guide how we operate as an open community.
 
-
-
 ## **Mission**
 
 To build a secure, collaborative, and thriving open source ecosystem across Africa by empowering contributors, security professionals, developers, and communities with education, tooling, mentorship, and sustainable governance.
-
-
 
 ## **Scope**
 
@@ -31,7 +25,6 @@ This repository covers:
 * Templates, meeting notes, and operational documents
 
 
-
 ## **Principles**
 
 OSSAfrica governance aligns with Linux Foundation and OpenSSF values:
@@ -42,7 +35,6 @@ OSSAfrica governance aligns with Linux Foundation and OpenSSF values:
 * **Meritocratic evolution:** Leadership evolves as contributors demonstrate initiative and responsibility.
 * **Neutral, vendor-agnostic operations:** No single company or entity controls OSSAfrica.
 * **Security-focused culture:** Our operations emphasize safe, responsible engagement with open source security.
-
 
 
 ## **Governance Structure**
@@ -62,7 +54,6 @@ Responsibilities:
 * Liaise with OpenSSF and other partners
 
 
-
 ### **2. Advisory Council**
 
 A group of experienced open source and security leaders who guide strategic decisions and provide oversight.
@@ -72,7 +63,6 @@ Responsibilities:
 * Offer non-binding strategic advice
 * Ensure alignment with open source best practices
 * Support partnerships, policy alignment, and ecosystem growth
-
 
 
 ### **3. Working Groups (WGs)**
@@ -87,7 +77,6 @@ Each WG has:
 * Documented goals and deliverables
 
 WG decisions are made by consensus; escalations go to the Core Team.
-
 
 
 ## **Decision-Making Process**
@@ -107,7 +96,6 @@ OSSAfrica follows a consensus-based model inspired by the Linux Foundation:
 All decisions, discussions, and votes must be documented.
 
 
-
 ## **Community Participation**
 
 You do not need permission to contribute.
@@ -123,14 +111,12 @@ Everyone is welcome to:
 Contributions follow the **Contributor Guidelines** in `CONTRIBUTING.md`.
 
 
-
 ## **Code of Conduct**
 
 OSSAfrica follows the **Linux Foundation Code of Conduct**, adapted for our context.
 All participants must behave professionally, respectfully, and inclusively.
 
 See: `docs/community/code-of-conduct.md`
-
 
 
 ## **Meetings**
@@ -140,7 +126,6 @@ See: `docs/community/code-of-conduct.md`
 * Core Team and Advisory Council may hold private meetings only when necessary (sensitive topics, security issues, partner discussions)
 
 Meeting templates are available under `/templates`.
-
 
 
 ## **Roadmap**

@@ -2,7 +2,7 @@
 
 *An Open Community Initiative Aligned with Linux Foundation & OpenSSF Principles*
 
----
+
 
 ## **Overview**
 
@@ -10,13 +10,13 @@
 
 This repository provides the authoritative source for OSSAfrica’s organizational structure, working groups, governance processes, and documentation that guide how we operate as an open community.
 
----
+
 
 ## **Mission**
 
 To build a secure, collaborative, and thriving open source ecosystem across Africa by empowering contributors, security professionals, developers, and communities with education, tooling, mentorship, and sustainable governance.
 
----
+
 
 ## **Scope**
 
@@ -30,7 +30,7 @@ This repository covers:
 * Communications, moderation, and conduct policies
 * Templates, meeting notes, and operational documents
 
----
+
 
 ## **Principles**
 
@@ -43,7 +43,7 @@ OSSAfrica governance aligns with Linux Foundation and OpenSSF values:
 * **Neutral, vendor-agnostic operations:** No single company or entity controls OSSAfrica.
 * **Security-focused culture:** Our operations emphasize safe, responsible engagement with open source security.
 
----
+
 
 ## **Governance Structure**
 
@@ -61,7 +61,7 @@ Responsibilities:
 * Facilitate long-term strategic direction
 * Liaise with OpenSSF and other partners
 
----
+
 
 ### **2. Advisory Council**
 
@@ -73,21 +73,11 @@ Responsibilities:
 * Ensure alignment with open source best practices
 * Support partnerships, policy alignment, and ecosystem growth
 
----
+
 
 ### **3. Working Groups (WGs)**
 
 Modeled after OpenSSF WGs, each WG focuses on a specific mission area.
-
-Current examples:
-
-* **Community & Outreach**
-* **Security & Research**
-* **Developer Experience & Tooling**
-* **Education & Training**
-* **Events & Programs**
-* **Regional Chapters**
-* **Communications & Content**
 
 Each WG has:
 
@@ -98,7 +88,7 @@ Each WG has:
 
 WG decisions are made by consensus; escalations go to the Core Team.
 
----
+
 
 ## **Decision-Making Process**
 
@@ -116,7 +106,7 @@ OSSAfrica follows a consensus-based model inspired by the Linux Foundation:
 
 All decisions, discussions, and votes must be documented.
 
----
+
 
 ## **Community Participation**
 
@@ -141,7 +131,7 @@ All participants must behave professionally, respectfully, and inclusively.
 
 See: `docs/community/code-of-conduct.md`
 
----
+
 
 ## **Meetings**
 
@@ -151,7 +141,7 @@ See: `docs/community/code-of-conduct.md`
 
 Meeting templates are available under `/templates`.
 
----
+
 
 ## **Roadmap**
 
@@ -165,7 +155,7 @@ Initial focus areas include:
 * Publishing governance framework v1.0
 * Creating educational/security initiatives across Africa
 
----
+
 
 ## **How to Get Involved**
 
@@ -177,13 +167,13 @@ Initial focus areas include:
 
 We encourage everyone—beginners and experts alike—to take part in shaping OSSAfrica.
 
----
+
 
 ## **Licensing**
 
 This repository is licensed under **Creative Commons Attribution 4.0 (CC-BY 4.0)** unless otherwise specified.
 
----
+
 
 ## **Acknowledgements**
 

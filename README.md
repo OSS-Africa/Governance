@@ -1,16 +1,21 @@
-# **OSSAfrica Governance & Community Framework**
+# OSSAfrica Governance Repository
 
-*An Open Community Initiative Aligned with Linux Foundation & OpenSSF Principles*
+## An Open Community Initiative
 
-## **Overview**
+This repository contains the governance framework, organizational structure, policies, and operational documents for **Open Source & Security Africa (OSSAfrica)**.
+It is intended as the authoritative source for how the community operates, makes decisions, and evolves over time by providing documentation that guides governance,
+leadership, and community practices.
 
-**Open Source & Security Africa (OSSAfrica)** is a community-driven initiative dedicated to strengthening open source collaboration, security awareness, and contributor growth across the African continent. Our governance model draws heavily from practices established by the **Open Source Security Foundation (OpenSSF)** and the **Linux Foundation (LF)**—prioritizing transparency, fairness, openness, and community participation.
+## Overview
 
-This repository provides the authoritative source for OSSAfrica’s organizational structure, working groups, governance processes, and documentation that guide how we operate as an open community.
+Open Source & Security Africa (OSSAfrica) is a community-driven initiative focused on strengthening open source collaboration, security awareness, and
+contributor engagement across Africa. Our governance model draws heavily from practices established by the **Open Source Security Foundation (OpenSSF)**
+and the **Linux Foundation (LF)** - prioritizing transparency, fairness, openness, and community participation.
 
 ## **Mission**
 
-To build a secure, collaborative, and thriving open source ecosystem across Africa by empowering contributors, security professionals, developers, and communities with education, tooling, mentorship, and sustainable governance.
+To build a secure, collaborative, and thriving open source ecosystem across Africa by empowering contributors, security professionals, developers, and communities 
+with education, tooling, mentorship, and sustainable governance.
 
 ## **Scope**
 
@@ -18,16 +23,15 @@ This repository covers:
 
 * Governance framework & operating model
 * Working group charters
-* Leadership responsibilities & election processes
+* Leadership responsibilities & processes
 * Community expectations & participation guidelines
 * Onboarding processes
 * Communications, moderation, and conduct policies
 * Templates, meeting notes, and operational documents
 
-
 ## **Principles**
 
-OSSAfrica governance aligns with Linux Foundation and OpenSSF values:
+OSSAfrica governance aligns with the following values:
 
 * **Open participation:** Anyone may join, contribute, or participate.
 * **Transparent governance:** Decisions, meetings, and processes are documented and accessible.
@@ -36,97 +40,53 @@ OSSAfrica governance aligns with Linux Foundation and OpenSSF values:
 * **Neutral, vendor-agnostic operations:** No single company or entity controls OSSAfrica.
 * **Security-focused culture:** Our operations emphasize safe, responsible engagement with open source security.
 
+## Governance Structure
 
-## **Governance Structure**
+At this stage, OSSAfrica operates with a streamlined governance model designed to ensure clarity, accountability, and
+alignment with the broader open source security ecosystem:
 
-OSSAfrica operates under a multi-layer leadership model inspired by OpenSSF Working Groups.
+* **OpenSSF BEAR Working Group**: Serves as the governing body, providing strategic guidance, mentorship, and ensuring that OSSAfrica’s
+activities align with global open source security standards and initiatives.
+* **OSSAfrica Special Interest Group (SIG)**: Acts as the operational liaison between the Core Team and the BEAR Working Group, driving
+community growth, coordinating administrative efforts, and facilitating alignment with governance priorities.
+* **Core Team**: Responsible for day-to-day management, operational decision-making, coordination of community activities, and engagement with contributors.
+The Core Team implements strategies approved by the SIG and ensures the smooth functioning of OSSAfrica initiatives.
 
-### **1. Core Team**
+As OSSAfrica evolves, additional working groups and formal leadership roles may be established to focus on specialized missions such as community outreach,
+security research, educational programs, and regional or country-specific chapters. This flexible structure allows the organization to scale while maintaining clear governance and accountability.
 
-The Core Team oversees organizational alignment, strategy, partnerships, and overall cross-community coordination.
+## Contents
 
-Responsibilities:
+The repository is/should be organized as follows:
 
-* Maintain governance documentation
-* Approve working group charters
-* Ensure neutral, inclusive operations
-* Facilitate long-term strategic direction
-* Liaise with OpenSSF and other partners
+```markdown
+/docs
+  governance-framework.md
+  leadership-roles.md
+  working-groups.md
+  decision-making-process.md
+  code-of-conduct.md
+  conflict-resolution.md
+  community-onboarding.md
+  community-policies.md
+  moderation-guidelines.md
+  discord-structure.md
+  community-call-playbook.md
+  roadmap.md
+/templates
+  proposal-template.md
+  charter-template.md
+  role-description-template.md
+  meeting-notes-template.md
+CONTRIBUTING.md
+LICENSE
+README.md
+```
 
+## Contributing
 
-### **2. Advisory Council**
-
-A group of experienced open source and security leaders who guide strategic decisions and provide oversight.
-
-Responsibilities:
-
-* Offer non-binding strategic advice
-* Ensure alignment with open source best practices
-* Support partnerships, policy alignment, and ecosystem growth
-
-
-### **3. Working Groups (WGs)**
-
-Modeled after OpenSSF WGs, each WG focuses on a specific mission area.
-
-Each WG has:
-
-* A **Charter**
-* A **Lead** and optional **Co-Lead**
-* Regular meetings (open to all)
-* Documented goals and deliverables
-
-WG decisions are made by consensus; escalations go to the Core Team.
-
-
-## **Decision-Making Process**
-
-OSSAfrica follows a consensus-based model inspired by the Linux Foundation:
-
-1. **General consensus** within Working Groups
-2. If unresolved → discussion with Core Team
-3. If still unresolved → escalated to Advisory Council
-4. Final resolution prioritizes:
-
-   * Community impact
-   * Transparency
-   * Long-term sustainability
-   * Security and safety
-
-All decisions, discussions, and votes must be documented.
-
-
-## **Community Participation**
-
-You do not need permission to contribute.
-
-Everyone is welcome to:
-
-* Join meetings
-* Participate in discussions
-* Contribute documentation, code, or research
-* Start initiatives within Working Groups
-* Propose improvements to governance
-
-Contributions follow the **Contributor Guidelines** in `CONTRIBUTING.md`.
-
-
-## **Code of Conduct**
-
-OSSAfrica follows the **Linux Foundation Code of Conduct**, adapted for our context.
-All participants must behave professionally, respectfully, and inclusively.
-
-See: `docs/community/code-of-conduct.md`
-
-
-## **Meetings**
-
-* All Working Group meetings are open to the public
-* Notes, recordings, and agendas must be published in this repository
-* Core Team and Advisory Council may hold private meetings only when necessary (sensitive topics, security issues, partner discussions)
-
-Meeting templates are available under `/templates`.
-
+Contributions are welcome from all community members.
+Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for instructions on proposing changes, submitting updates to governance documents, or participating in discussions.
 
 ## **Roadmap**
 
@@ -140,31 +100,25 @@ Initial focus areas include:
 * Publishing governance framework v1.0
 * Creating educational/security initiatives across Africa
 
+## Getting Started
 
-
-## **How to Get Involved**
-
-* Join the community Discord: **(Insert server link)**
-* Participate in Working Group meetings
+* Read the governance framework in `/docs/governance-framework.md`.
+* Join the community Discord: **<https://discord.gg/xKaFkRGvxq>**
+* Participate in general community meetings
 * Contribute to governance documents
 * Propose new initiatives or improvements
 * Volunteer for roles or leadership positions
 
 We encourage everyone—beginners and experts alike—to take part in shaping OSSAfrica.
 
-
-
 ## **Licensing**
 
-This repository is licensed under **Creative Commons Attribution 4.0 (CC-BY 4.0)** unless otherwise specified.
+This repository is licensed under **Apache 2.0** unless otherwise specified.
+See the [`LICENSE`](LICENSE) file for details.
 
+## Acknowledgements
 
-
-## **Acknowledgements**
-
-OSSAfrica draws governance inspiration from:
+This governance model draws inspiration from established open source governance practices used by global foundations and working groups, adapted to the African open source and security context. Noteworthy among such organizations are:
 
 * Open Source Security Foundation (OpenSSF)
-* Linux Foundation Governance Models
-* CNCF Community & Project Governance
-* Global open source communities and contributors
+* Linux Foundation (LF)

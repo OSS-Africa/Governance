@@ -42,7 +42,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 
 | Milestone | Target | Description | Owner | Dependencies | Success Criteria |
 |-----------|--------|-------------|-------|--------------|------------------|
-| Governance Framework v1.0 | Q1 2026 | Complete governance documentation | Core Team | Community feedback | Published docs/, approved by BEAR WG |
+| Governance Framework v1.0 | Q1 2026 | Complete governance documentation | Core Team | Community feedback | Published docs/, approved by the Core Team |
 | Discord Community Launch | Q1 2026 | Structured community platform | Core Team | Moderation guidelines | 100+ active members |
 | Chapter Formation Process | Q2 2026 | Standardized chapter establishment | OSSAfrica SIG | Governance framework | 3 chapters launched |
 | Security Workshop Series | Q2 2026 | Monthly educational sessions | Core Team | Content development | 50+ participants per session |
@@ -210,7 +210,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 
 1. Initiative-level issues → Core Team
 2. Strategic decisions → OSSAfrica SIG
-3. Governance conflicts → OpenSSF BEAR Working Group
+3. Governance conflicts → OSSAfrica Core Team
 
 ## Success Metrics & Measurement
 
@@ -341,7 +341,6 @@ Q1 2026    Q2 2026    Q3 2026    Q4 2026
 - **Chapter:** Regional community group with local leadership
 - **Core Team:** Day-to-day operational leadership group
 - **OSSAfrica SIG:** Strategic oversight and governance liaison
-- **BEAR WG:** OpenSSF working group providing governance oversight
 
 ---
 

@@ -77,7 +77,7 @@ OSSAfrica follows a consensus-first model:
 2. Discussion is open for contributor and maintainer feedback.
 3. Decisions seek rough consensus with documented rationale.
 4. Unresolved governance disputes escalate to the OSSAfrica SIG.
-5. Governance-level escalations may involve OpenSSF BEAR WG guidance.
+5. Governance-level escalations are handled by the OSSAfrica Core Team.
 
 Reference: [docs/decision-making-process.md](docs/decision-making-process.md)
 

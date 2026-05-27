@@ -56,7 +56,7 @@ Leaders maintain a welcoming, inclusive, and constructive environment. They mode
 
 * Follow OSSAfrica governance guidelines.
 * Uphold open source best practices, including documentation, transparency, and merit-based decision-making.
-* Coordinate with the Core Team to ensure alignment with the OpenSSF BEAR WG.
+* Coordinate with the Core Team to ensure alignment with OSSAfrica governance.
 
 ---
 

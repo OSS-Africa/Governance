@@ -179,7 +179,7 @@ This Code of Conduct is a living document that may be updated to reflect the evo
 1. Submitted via pull request to this repository
 2. Reviewed by the Core Team and community members
 3. Subject to a public comment period of at least 14 days
-4. Approved by OpenSSF BEAR before implementation
+4. Approved by the OSSAfrica Core Team before implementation
 
 Community members will be notified of any changes through official communication channels.
 

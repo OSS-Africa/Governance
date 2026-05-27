@@ -110,7 +110,7 @@ Labels are grouped into the following categories:
 
 ### Authority
 
-This taxonomy is governed by the **OSSAfrica Core Team**, operating under oversight from the OpenSSF BEAR Working Group.
+This taxonomy is governed by the **OSSAfrica Core Team**.
 
 ### Change Proposal Process
 

@@ -21,7 +21,7 @@ reviewed, and approved.
 
 - Prefer rough consensus through open discussion.
 - Escalate unresolved disputes to the OSSAfrica SIG.
-- Escalate governance conflicts to OpenSSF BEAR WG when required.
+- Escalate governance conflicts to the OSSAfrica Core Team when required.
 
 ## Documentation Requirements
 

@@ -65,7 +65,7 @@ OSSAfrica follows these security practices:
 For urgent security matters, contact the Core Team through:
 - Email: security@ossafrica.org
 - Discord: Direct message to Core Team members
-- OpenSSF BEAR Working Group escalation for critical issues
+- OSSAfrica Core Team escalation for critical issues
 
 ### Attribution
 

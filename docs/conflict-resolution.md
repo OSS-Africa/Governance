@@ -15,7 +15,7 @@ collaboration conflicts.
 1. Direct discussion between involved parties.
 2. Mediated review by a Core Team member.
 3. Escalation to OSSAfrica SIG for unresolved cases.
-4. Final escalation to OpenSSF BEAR WG for governance-level disputes.
+4. Final escalation to the OSSAfrica Core Team for governance-level disputes.
 
 ## Documentation
 

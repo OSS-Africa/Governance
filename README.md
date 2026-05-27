@@ -9,8 +9,7 @@ leadership, and community practices.
 ## Overview
 
 Open Source & Security Africa (OSSAfrica) is a community-driven initiative focused on strengthening open source collaboration, security awareness, and
-contributor engagement across Africa. Our governance model draws heavily from practices established by the **Open Source Security Foundation (OpenSSF)**
-and the **Linux Foundation (LF)** - prioritizing transparency, fairness, openness, and community participation.
+contributor engagement across Africa.
 
 ## **Mission**
 
@@ -45,48 +44,13 @@ OSSAfrica governance aligns with the following values:
 At this stage, OSSAfrica operates with a streamlined governance model designed to ensure clarity, accountability, and
 alignment with the broader open source security ecosystem:
 
-* **OpenSSF BEAR Working Group**: Serves as the governing body, providing strategic guidance, mentorship, and ensuring that OSSAfrica’s
+* **OSSAfrica Governing Board**: Serves as the governing body, providing strategic guidance, mentorship, and ensuring that OSSAfrica’s
 activities align with global open source security standards and initiatives.
-* **OSSAfrica Special Interest Group (SIG)**: Acts as the operational liaison between the Core Team and the BEAR Working Group, driving
-community growth, coordinating administrative efforts, and facilitating alignment with governance priorities.
 * **Core Team**: Responsible for day-to-day management, operational decision-making, coordination of community activities, and engagement with contributors.
 The Core Team implements strategies approved by the SIG and ensures the smooth functioning of OSSAfrica initiatives.
 
 As OSSAfrica evolves, additional working groups and formal leadership roles may be established to focus on specialized missions such as community outreach,
 security research, educational programs, and regional or country-specific chapters. This flexible structure allows the organization to scale while maintaining clear governance and accountability.
-
-## Contents
-
-The repository is organized as follows:
-
-```markdown
-/docs
-  governance-framework.md
-  current_leadership.md
-  leadership-roles.md
-  working-groups.md
-  decision-making-process.md
-  code-of-conduct.md
-  conflict-resolution.md
-  community-onboarding.md
-  community-policies.md
-  moderation-guidelines.md
-  discord-structure.md
-  community-call-playbook.md
-  roadmap.md
-  leadership-expectations.md
-  security.md
-/templates
-  proposal-template.md
-  charter-template.md
-  role-description-template.md
-  meeting-notes-template.md
-  weekly-leadership-check-in.md
-CHARTER.md
-CONTRIBUTING.md
-LICENSE
-README.md
-```
 
 ## Contributing
 
@@ -137,7 +101,5 @@ See the [`LICENSE`](LICENSE) file for details.
 
 ## Acknowledgements
 
-This governance model draws inspiration from established open source governance practices used by global foundations and working groups, adapted to the African open source and security context. Noteworthy among such organizations are:
+This governance model draws inspiration from established open source governance practices used by global foundations and working groups, adapted to the African open source and security context. 
 
-* Open Source Security Foundation (OpenSSF)
-* Linux Foundation (LF)

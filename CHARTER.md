@@ -47,18 +47,15 @@ OSSAfrica governance operates on these principles:
 
 ## 6. Governance Bodies and Roles
 
-### 6.1 OpenSSF BEAR Working Group
+### 6.1 OSSAfrica Governing Board
 
 Provides strategic oversight and external governance alignment support.
 
-### 6.2 OSSAfrica Special Interest Group (SIG)
-
-Coordinates governance direction, priorities, and policy-level decisions.
-
-### 6.3 Core Team
+### 6.2  Core Team
 
 Executes day-to-day governance operations, implementation, and community
 coordination.
+Coordinates governance direction, priorities, and policy-level decisions.
 
 ### 6.4 Working Groups and Leads
 
@@ -95,8 +92,7 @@ OSSAfrica is consensus-first. Voting is used when consensus cannot be reached.
 - Electronic votes require a simple majority of all eligible participants.
 - Charter amendments require a two-thirds majority.
 
-If a vote remains unresolved, the matter may be escalated to the OSSAfrica SIG,
-and when appropriate, to OpenSSF BEAR WG guidance.
+If a vote remains unresolved, the matter may be escalated to the OSSAfrica Governing Board.
 
 ## 10. Meetings and Reporting
 
@@ -117,8 +113,7 @@ Reference: [templates/charter-template.md](templates/charter-template.md)
 
 ## 12. Compliance With Policies
 
-All participants must follow OSSAfrica governance policies and applicable Linux
-Foundation/OpenSSF collaboration norms where relevant to joint governance work.
+All participants must follow OSSAfrica governance policies,
 
 The governance process must remain open, transparent, non-discriminatory, and
 professionally managed.
@@ -136,8 +131,6 @@ Meetings should:
 - Follow prepared agendas.
 - Capture minutes and decisions.
 - Record and escalate objections to inappropriate discussion.
-
-Reference: Linux Foundation Antitrust Policy [linuxfoundation.org/legal/antitrust-policy](https://www.linuxfoundation.org/legal/antitrust-policy)
 
 ## 14. Code of Conduct and Enforcement
 
@@ -184,7 +177,7 @@ This charter may be amended through pull request with:
 
 - Clear rationale and impact statement.
 - Community review period.
-- Maintainer/SIG approval and documented decision outcome.
+- Maintainer approval and documented decision outcome.
 - Two-thirds approval of eligible voting participants.
 
 ## 20. Review Cadence
